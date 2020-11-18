@@ -1,1 +1,1 @@
-# landingpage-softskills
+# Landing Page - Soft skills :star:
