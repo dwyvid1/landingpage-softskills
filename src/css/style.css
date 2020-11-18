@@ -77,7 +77,7 @@ main {
 main h1, h2 {
     color: #fff;
     font-size: 50px;
-     margin-right: 25px;
+    margin-right: 25px;
     margin-left: 250px;
 
     font-family: 'Bebas Neue', cursive;
@@ -102,4 +102,49 @@ main h3 {
     margin-right: 25px;
     text-align: justify;
     font-family: 'Roboto', sans-serif;
+}
+
+.flexibility h4 {
+    margin-top: 70px;
+    font-size: 50px;
+    color: #fff;
+    margin-right: 25px;
+    margin-left: 250px;
+
+    font-family: 'Bebas Neue', cursive;
+}
+
+.flexibility p {
+    margin-top: 10px;
+    font-size: 20px;
+    color: #fff;
+    margin-right: 48px;
+    margin-left: 250px;
+}
+
+.self-control h5 {
+    margin-top: 70px;
+    font-size: 50px;
+    color: #fff;
+    margin-left: 250px;
+    margin-right: 25px;
+
+    font-family: 'Bebas Neue', cursive;
+}
+
+.self-control p {
+    margin-top: 10px;
+    font-size: 20px;
+    color: #fff;
+    margin-right: 48px;
+    margin-left: 250px;
+}
+
+.flexibility-and-self-control h6 {
+    margin-top: 70px;
+    color: #fff;
+    font-size: 50px;
+    margin-right: 25px;
+    margin-left: 250px;
+    font-family: 'Bebas Neue', cursive;
 }
