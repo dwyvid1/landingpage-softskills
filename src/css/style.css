@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 html, body {
     height: 100%;
 }
@@ -59,3 +63,43 @@ body {
 
 /* ------------------------------------ */
 
+/* Main */
+
+main {
+    position: absolute;
+    width: 100%;
+}
+
+.main-titles {
+    margin-top: 70px;
+}
+
+main h1, h2 {
+    color: #fff;
+    font-size: 50px;
+     margin-right: 25px;
+    margin-left: 250px;
+
+    font-family: 'Bebas Neue', cursive;
+}
+
+main h3 {
+    color: #fff;
+    font-size: 50px;
+
+    font-family: 'Bebas Neue', cursive;
+}
+
+.main-introduction {
+    margin-top: 70px;
+    font-size: 20px;
+    color: #fff;
+    margin-left: 250px;
+}
+
+.introduction-paragraph, p {
+    margin-top: 10px;
+    margin-right: 25px;
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+}
