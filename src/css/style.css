@@ -209,3 +209,69 @@ main h3 {
         display: inline;
     }
 }
+
+@media (max-width: 412px) {
+    main {
+        width: 100%;
+    }
+
+    main h1, h2 {
+        font-size: 35px;
+        margin-right: 10px;
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .main-introduction {
+        margin-right: 10px;
+        margin-left: 10px;
+
+    }
+
+    main h3 {
+        font-size: 35px;
+        margin-right: 10px;
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .flexibility h4 {
+        font-size: 35px;
+        margin-right: 10px;
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .flexibility p {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    .self-knowledge h5 {
+        font-size: 35px;
+        margin-right: 10px;
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .self-knowledge p, .more-informations {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    .self-knowledge, .more-informations {
+        text-align: center;
+    }
+
+    .flexibility-and-self-knowledge h6 {
+        font-size: 35px;
+        margin-right: 10px;
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .flexibility-and-self-knowledge p {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+}
