@@ -67,7 +67,7 @@ body {
 
 main {
     position: absolute;
-    width: 100%;
+    margin-left: 200px;
 }
 
 .main-titles {
@@ -77,8 +77,8 @@ main {
 main h1, h2 {
     color: #fff;
     font-size: 50px;
-    margin-right: 25px;
-    margin-left: 250px;
+    margin-right: 50px;
+    margin-left: 50px;
 
     font-family: 'Bebas Neue', cursive;
 }
@@ -94,12 +94,12 @@ main h3 {
     margin-top: 70px;
     font-size: 20px;
     color: #fff;
-    margin-left: 250px;
+    margin-right: 50px;
+    margin-left: 50px;
 }
 
 .introduction-paragraph, p {
     margin-top: 10px;
-    margin-right: 25px;
     text-align: justify;
     font-family: 'Roboto', sans-serif;
 }
@@ -108,8 +108,8 @@ main h3 {
     margin-top: 70px;
     font-size: 50px;
     color: #fff;
-    margin-right: 25px;
-    margin-left: 250px;
+    margin-right: 50px;
+    margin-left: 50px;
 
     font-family: 'Bebas Neue', cursive;
 }
@@ -118,33 +118,53 @@ main h3 {
     margin-top: 10px;
     font-size: 20px;
     color: #fff;
-    margin-right: 48px;
-    margin-left: 250px;
+    margin-right: 50px;
+    margin-left: 50px;
 }
 
-.self-control h5 {
+.self-knowledge h5 {
     margin-top: 70px;
     font-size: 50px;
     color: #fff;
-    margin-left: 250px;
-    margin-right: 25px;
+    margin-right: 50px;
+    margin-left: 50px;
 
     font-family: 'Bebas Neue', cursive;
 }
 
-.self-control p {
+.self-knowledge p {
     margin-top: 10px;
     font-size: 20px;
     color: #fff;
-    margin-right: 48px;
-    margin-left: 250px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 10px;
 }
 
-.flexibility-and-self-control h6 {
+.more-informations {
+    font-style: italic;
+    font-size: 20px;
+    color: #fff;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.flexibility-and-self-knowledge h6 {
     margin-top: 70px;
     color: #fff;
     font-size: 50px;
-    margin-right: 25px;
-    margin-left: 250px;
+    margin-right: 50px;
+    margin-left: 50px;
+
     font-family: 'Bebas Neue', cursive;
+}
+
+.flexibility-and-self-knowledge p {
+    margin-top: 10px;
+    font-size: 20px;
+    color: #fff;
+    margin-right: 50px;
+    margin-left: 50px;
+
+    margin-bottom: 70px;
 }
