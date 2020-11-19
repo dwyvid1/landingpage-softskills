@@ -168,3 +168,44 @@ main h3 {
 
     margin-bottom: 70px;
 }
+
+@media (max-width: 700px) {
+    main {
+        margin-left: 150px;
+    }
+
+    .sidebar {
+        width: 150px;
+    }
+
+    .img-sidebar img {
+        width: 145px;
+    }
+}
+
+@media (max-width: 550px) {
+    main {
+        position: absolute;
+        margin-top: 300px;
+        margin-left: 0px;
+    }
+
+    .sidebar {
+        position: absolute;
+        height: 250px;
+        width: 100%;
+    }
+
+    .main-titles {
+        margin-top: 0px;
+    }
+    
+    .menu a {
+        margin: 5px;
+        color: #fff;
+        font-size: 20px;
+        text-decoration: none;
+
+        display: inline;
+    }
+}
