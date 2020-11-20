@@ -4,6 +4,7 @@
 This project was created with the objective of talking about a very important subject: Soft skills - Flexibility and self-knowledge. The idea for the existence of this project came through a challenge from Rocketseat at the Expansion Week event: create a landing page to talk about soft skills.
 
 <h1 align="center">About :octocat:</h1>
+
 * The project was created with HTML and CSS
 * The project is responsive
 * Deploy: https://softskills.deyvid.vercel.app/
